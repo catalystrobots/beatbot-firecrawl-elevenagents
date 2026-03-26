@@ -37,9 +37,6 @@ This project demonstrates a step toward **physically embodied AI agents** that:
 - Communicate naturally through voice
 - Operate in real-world environments (not just chat interfaces)
 
-## Demo Video
-[Insert your video link here]
-
 ## Notes
 This repository contains a **focused subset** of the system highlighting Firecrawl and ElevenAgents integration.
 
